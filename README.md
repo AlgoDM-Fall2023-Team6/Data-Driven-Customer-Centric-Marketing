@@ -14,7 +14,13 @@
     - `conda env create -f envi.yml`
   * Activate that created conda environment by `conda activate my_environmen`.
   * Load the Equalivent file to run the application.
-  * these Streamlit Pages in the streamlit application are RFM analyis, Next Best Purchase Date Predection, Daily Sales Forecasting
+  * these Streamlit Pages in the streamlit application are RFM analysis, Next Best Purchase Date Predection, Daily Sales Forecasting
+
+Contribution:
+
+### Praneeth Korukonda   -  33.3%
+### Balaji rao B   -  33.3%
+### Sandeep Kotha   -  33.3%
 
 
 [AlgoDM - Team 6]
